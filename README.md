@@ -1,3 +1,6 @@
+SQL файл БД\
+laravel_test_1_db.sql
+
 БД\
 laravel_test_1_db
 
