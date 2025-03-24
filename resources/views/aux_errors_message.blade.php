@@ -1,0 +1,1 @@
+<div class="aux_errors_message aux_errors_message_type_{{$messageType_STR}}">{!! $message_STR !!}</div>

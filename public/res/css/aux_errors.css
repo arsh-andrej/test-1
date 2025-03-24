@@ -1,0 +1,35 @@
+/*
+--------------------------
+AuxErrors
+--------------------------
+*/
+
+.aux_errors_message {
+	
+	display: inline-block;
+	padding: 10px;
+	border: 5px transparent solid;
+	
+    font-family: "Arial Narrow", serif;
+    font-size: 20px;
+    color: #0a0a0a;
+    
+}
+
+.aux_errors_message_type_normal {
+	
+	border-color: #04af00;
+	
+}
+
+.aux_errors_message_type_soft {
+	
+	border-color: #ffb800 !important;
+	
+}
+
+.aux_errors_message_type_hard {
+	
+	border-color: #f53003;
+	
+}
