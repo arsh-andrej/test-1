@@ -8,4 +8,5 @@ test_1_user
 MDY7TxE2s_8CCa32
 
 Домен\
-test-1.test
+test-1.test\
+Меняется в VisitorModel.php:108
